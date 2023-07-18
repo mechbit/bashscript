@@ -26,7 +26,7 @@ Add clients which will create users
 
 Download th script:
 
-wget -O - https://raw.githubusercontent.com/mechbit/bashscript/main/ispconfig3-server-move.sh
+wget https://raw.githubusercontent.com/mechbit/bashscript/main/ispconfig3-server-move.sh
 
 Change permission
 
