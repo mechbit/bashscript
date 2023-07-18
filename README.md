@@ -10,6 +10,8 @@
 and make sure to create all the users from the previous installation
 (ISPConfig creates users for each client and web page)
 
+Add clients which will create users
+
  *TODO:
  
   *You should update ISPConfig MySQL Password to match your new server's, as it's stored in
