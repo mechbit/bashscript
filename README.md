@@ -16,6 +16,8 @@ Add clients which will create users
  
   *You should update ISPConfig MySQL Password to match your new server's, as it's stored in
    several ISPConfig files (it's a faster approach than updating the password in all those places)
+   
+   *Password located in /usr/local/ispconfig/server/lib/config.inc.php in new server
   
   *Enter MySQL on the destination server and run:
   
@@ -24,6 +26,7 @@ Add clients which will create users
   *You should also make shure all the tables on the destination server are clean:
   mysqlcheck -A --auto-repair
 
+How to use:
 Download th script:
 
 wget https://raw.githubusercontent.com/mechbit/bashscript/main/ispconfig3-server-move.sh
