@@ -28,7 +28,7 @@ wget -O - https://raw.githubusercontent.com/mechbit/bashscript/main/ispconfig3-s
 
 Change permission
 
-chmod +x
+chmod +x ispconfig3-server-move.sh
 
 Execute the script :
 
