@@ -44,6 +44,7 @@ Enter 1,2,3.....7 for each step
 Post Installation :
 
 *installation users and groups. You should manually create those users inyour new server
-copy user from /etc/passwd to new server and /etc/group to new server
+copy user from /etc/passwd to new server , /etc/group to new server, /etc/gshadow to new server, /etc/shadow to new server
 
+Cronjob for user will work after this
 ----------------ISPCONFIG3 SERVER MOVE-----------------
